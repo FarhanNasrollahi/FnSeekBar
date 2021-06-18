@@ -1,0 +1,3 @@
+rootProject.name = "TestSeekBar"
+include ':app'
+include ':FnSeekBar'
